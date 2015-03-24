@@ -30,7 +30,7 @@ git commit -m "Initial commit"
 GitLabにプロジェクト作る
 
 ```
-git remote add origin ssh://git@gitlab.its-lab.net:10022/orita/fuelphp-demo_app.git
+git remote add origin ssh://git@example.com/orita/fuelphp-demo_app.git
 ```
 
 ### docker-compose
